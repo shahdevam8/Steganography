@@ -1,4 +1,4 @@
-# 🕵️ Steganography in Python — Hide Text Inside an Image (No Libraries Required)
+# 🕵️ Steganography in Python — Hide Text Inside an Image
 
 This simple and reliable Python project lets you **hide and reveal secret text inside a BMP image** using **no external libraries or pip packages**. It uses the **Least Significant Bit (LSB)** method for steganography.
 
